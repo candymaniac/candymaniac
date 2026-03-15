@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F778D2&width=435&lines=Candy+candy+caNDY%2C+CANDY+FOR+ALL!!!)](https://git.io/typing-svg)
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=candymaniac&color=f0b000&style=for-the-badge&label=CANDY)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=candymaniac&color=f0b000&style=for-the-badge&label=CANDY I LEFT IN THE VENTS)
 
 <details>
   <summary> ${\color{#F778D2}INFO!!}$ </summary>
